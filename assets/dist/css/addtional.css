@@ -1,0 +1,47 @@
+.addtional_head_h4{
+	color: #ffffff;
+}
+.addtional_head_p{
+	color: #ffffff;
+}
+.add_head_a{
+	color: #ffffff;
+}
+.add_head_a_active {
+    color: #ffffff !important;
+}
+/*.add_head_a_active {
+    
+}*/
+.breadcrumb-item+.breadcrumb-item::before{
+	color: #ffffff !important;
+}
+
+.add_invoice_div{
+	
+    border: 2px solid;
+}
+.invoice_h4{
+	 text-align: center;
+    margin-top: 8px;
+    font-weight: 900;
+}
+.add_invoice_div_2 {
+    border: 2px solid;
+    border-top: 0px !important;
+}
+.add_h5{
+	text-align: center;
+	margin-top: 8px;
+	font-weight: 700;
+}
+.add_p{
+	margin-bottom: 0px !important;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.invoice_h6{
+	margin-top: 8px;
+    font-weight: 900;
+}
+    
